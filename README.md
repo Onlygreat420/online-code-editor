@@ -1,2 +1,7 @@
-# online-code-editor
-I tried to make a script for edit and live view any code.is this script is safe for using on my site?please help me to secure this script
+#simple code editor.
+..................................................................
+simple code editor by kazi mohammed foysal (kajimdfoysal06@gmail.com). 
+please use this code with owner credit.
+for download more script visit :- http://foysalbd.aino.pk/ 
+
+contact with me - http://m.facebook.com/kazi.mdfoysal.01
